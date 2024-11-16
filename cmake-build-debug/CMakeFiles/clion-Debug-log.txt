@@ -1,0 +1,1 @@
+C:\Users\darkm\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/darkm/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S "C:\Users\darkm\OneDrive\바탕 화면\codeup\C" -B "C:\Users\darkm\OneDrive\바탕 화면\codeup\C\cmake-build-debug"
