@@ -1,4 +1,4 @@
-.exe
+*.exe
 CMakeLists.txt
-cmake-build-debug
-.idea
+cmake-build-debug/
+.idea/
